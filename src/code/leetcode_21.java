@@ -30,14 +30,6 @@ public class leetcode_21 {
 
 
 }
-
-
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) { val = x; }
-}
-
 class Solution_21 {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         if(l1==null||l2==null){//考虑空链表
