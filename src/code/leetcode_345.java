@@ -12,8 +12,8 @@ import java.util.List;
  * 输出: "holle"
  * 示例 2:
  *
- * 输入: "leetcode"
- * 输出: "leotcede"
+ * 输入: "leetcode_130"
+ * 输出: "leotcede_130"
  * 说明:
  * 元音字母不包含字母"y"。
  *
